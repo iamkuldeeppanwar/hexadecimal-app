@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hexadecimal-app/static/css/main.c52f0bff.css",
+    "main.js": "/hexadecimal-app/static/js/main.d0561538.js",
+    "index.html": "/hexadecimal-app/index.html",
+    "main.c52f0bff.css.map": "/hexadecimal-app/static/css/main.c52f0bff.css.map",
+    "main.d0561538.js.map": "/hexadecimal-app/static/js/main.d0561538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52f0bff.css",
+    "static/js/main.d0561538.js"
+  ]
+}
